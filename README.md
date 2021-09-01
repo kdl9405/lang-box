@@ -36,4 +36,3 @@ This project gets your recent commits from your activities fetched from GitHub A
    - **GH_TOKEN:** The GitHub token generated above.
 1. [Pin the newly created Gist](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
 
-
